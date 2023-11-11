@@ -1,0 +1,12 @@
+YX98J,2014,Black,White,,Toyota,RAV4,34,34
+ABC132,2007,Yellow,,,Toyota,Corolla,5900,34
+38000,2012,Blue,Light Green,,Honda,Civic,9200,8
+78AMM,1989,violet,,,CIVIC,TRIP,12880,90
+ABC932,2005,Yellow,Red,,Toyota,Corolla,6900,0
+MEQY,1917,Dark Brown,Blue,Red,BMW,119d,5532,2
+39000,2002,Blue,Light Yellow,,Honda,Civic,9200,0
+78MMMM,1999,Purple,Orange,,CIVIC,TRIP,12880,8
+PQ23J,2004,Grey,White,,Toyota,RAV4,25000,5
+ASDR2,2007,Yellow,,,Toyota,Corolla,6000,12
+7OPAMM,1987,Dark Blue,Red,,CIVIC,HONDA,13880,6
+3EU7,2014,Yellow,Blue,Green,QMOTORS,WTI,67000,54
